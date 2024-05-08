@@ -167,7 +167,7 @@ h1{
 	
 }
 .proj:hover{
-	scale: 1.3;
+	scale: 1.1;
 	filter: grayscale(0);
 }
 
